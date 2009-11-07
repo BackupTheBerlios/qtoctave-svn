@@ -1,0 +1,5 @@
+# Lista de archivos en uso
+# Formato:
+# Desarrollador 	Fecha_inicio	Fecha_fin		Archivo
+
+acisif			2009-11-07	2010-01-1		/trunk/qtinfo/*
